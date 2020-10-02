@@ -1,16 +1,20 @@
-### Hi there 👋
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 
-<!--
-**v-y-a-s/v-y-a-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- in your body -->
+<i width="40px" height="50" class="devicon-typescript-plain colored"></i>
 
-Here are some ideas to get you started:
+### Hello! I am Vyas
+-----------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About: 
+
+Software Engineer - Backend & DevOps \
+Hiker & treker & Distance runner. 
+
+#### What I can do: 
+
+Languages: 
+
+
+<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" width="40px"> &nbsp; <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="40px"> &nbsp;  <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="40px"> &nbsp; <img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" width="40px"> &nbsp; 
