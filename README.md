@@ -39,7 +39,7 @@
 </br>
 <div align="center">
 <a href="https://medium.com/@svyasrao22"><img src="./icons/social/medium-tile.svg" width="30px"></a> &nbsp;
-<a href="https://twitter.com/madladvyas" width="30px"><img src="./icons/social/twitter-tile.svg"></a> &nbsp;
+<a href="https://twitter.com/madladvyas"><img src="./icons/social/twitter-tile.svg" width="30px"></a> &nbsp;
 <a href="https://www.linkedin.com/in/vyasrao/"><img src="./icons/social/linkedin-icon.svg" width="30px"></a> &nbsp;
 <a href="https://www.instagram.com/slimshadyreborn/"><img src="./icons/social/instagram-icon.svg" width="30px"></a> &nbsp;
 </div>
