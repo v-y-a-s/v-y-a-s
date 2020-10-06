@@ -1,7 +1,6 @@
 ### Hello! I am Vyas 
 -----------------------------------
 
-
 #### About:
 
 - Computer Science Engineer
@@ -10,26 +9,20 @@
 - Minimalist
 - Mostly Stoic
   
-</br>
-
-
+#### I build with:
 
 <div style=" display: flex; flex-direction:row;">
-
-<div style="flex: 1 1 0px;">
-<font size="4"> <b>I can build with:</b> </font>  </br></br>
 <img src="./icons/go-original.svg" width="40px"> &nbsp;
 <img src="./icons/javascript-original.svg" width="40px"> &nbsp;
 <img src="./icons/typescript-original.svg" width="40px"> &nbsp;
 <img src="./icons/terraformio-icon.svg" width="40px"> &nbsp;
 </div>
 
-<div style="flex: 1 1 0px;">
-<font size="4"> <b>Learning :</b> </font>  </br></br>
+#### Learning:
+
+<div style=" display: flex; flex-direction:row;">
 <img src="./icons/rust-plain.svg" width="40px"> &nbsp;
 <img src="./icons/react-original.svg" width="40px"> &nbsp;
-</div>
-
 </div>
 
 
@@ -61,7 +54,9 @@
 </br>
 </br>
 </br>
+
 ##### I built some cool apps with these tools:
+
 </br>
 <div align="center">
 <img src="./icons/aws.svg" width="40px"> &nbsp; 
