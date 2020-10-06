@@ -38,10 +38,10 @@
 ----------- 
 </br>
 <div align="center">
-<img src="./icons/social/medium-tile.svg" href="https://medium.com/@svyasrao22" width="30px"> &nbsp;
-<img src="./icons/social/twitter-tile.svg" href="https://twitter.com/madladvyas" width="30px"> &nbsp;
-<img src="./icons/social/linkedin-icon.svg" href="https://www.linkedin.com/in/vyasrao/" width="30px"> &nbsp;
-<img src="./icons/social/instagram-icon.svg" href="https://www.instagram.com/slimshadyreborn/" width="30px"> &nbsp;
+<a href="https://medium.com/@svyasrao22"><img src="./icons/social/medium-tile.svg" width="30px"></a> &nbsp;
+<a href="https://twitter.com/madladvyas" width="30px"><img src="./icons/social/twitter-tile.svg"></a> &nbsp;
+<a href="https://www.linkedin.com/in/vyasrao/"><img src="./icons/social/linkedin-icon.svg" width="30px"></a> &nbsp;
+<a href="https://www.instagram.com/slimshadyreborn/"><img src="./icons/social/instagram-icon.svg" width="30px"></a> &nbsp;
 </div>
 
 ----------- 
